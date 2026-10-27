@@ -1,0 +1,1 @@
+ESP32 touch-triggered servo trap with release-to-rearm logic and timeout protection.
